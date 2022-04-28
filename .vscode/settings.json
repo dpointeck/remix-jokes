@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        ".cache/**": true,
+        "build/**": true,
+        "public/build/**": true
+    }
+}
